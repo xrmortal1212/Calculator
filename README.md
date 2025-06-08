@@ -2,7 +2,7 @@
 
 Welcome to the **Calculator** project! This is a simple, yet functional calculator built with web technologies to perform basic arithmetic operations with a sleek user interface.
 
-🌐 **Live Site:** [Try the Calculator]([[https://xrmortal1212.github.io/Calculator)]
+🌐 **Live Site:** [Try the Calculator]([https://xrmortal1212.github.io/Calculator)]
 
 ## ➕ About
 
